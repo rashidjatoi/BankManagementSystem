@@ -1,2 +1,2 @@
-# BankManagementSystem
+# Bank Management System GUI Swing
  
